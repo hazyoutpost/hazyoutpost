@@ -27,5 +27,5 @@ discfinderapp@gmail.com
 
 ### <a href="https://www.paypal.com/donate/?hosted_button_id=FNM5WN2JAA392">Donate with PayPal</a> or <a href="https://www.buymeacoffee.com/hazyoutpost">Buy me a coffee</a>
 
-[![](https://github.com/hazyoutpost/hazyoutpost/blob/main/ppal.png)](https://www.paypal.com/donate/?hosted_button_id=FNM5WN2JAA392)
+[![](https://github.com/hazyoutpost/hazyoutpost/blob/main/paypal.png)](https://www.paypal.com/donate/?hosted_button_id=FNM5WN2JAA392)
 [![](https://github.com/hazyoutpost/hazyoutpost/blob/main/bmac.png)](https://www.buymeacoffee.com/hazyoutpost)
