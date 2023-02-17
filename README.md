@@ -1,4 +1,4 @@
-[![](https://github.com/hazyoutpost/hazyoutpost/blob/main/ppal.png)](https://www.paypal.com/donate/?hosted_button_id=FNM5WN2JAA392)
+[![](https://github.com/hazyoutpost/hazyoutpost/blob/main/paypal.png)](https://www.paypal.com/donate/?hosted_button_id=FNM5WN2JAA392)
 [![](https://github.com/hazyoutpost/hazyoutpost/blob/main/bmac.png)](https://www.buymeacoffee.com/hazyoutpost)</br>
 
 Disc Finder can be used offline and all search features are included for FREE, no advertisements. The app will make it easy to search and compare discs across many of the major disc manufacturers. The goal with this project was to make a portable pocket guide that will make it convenient to compare discs, browse for replacement discs, or just to help you disc up.
