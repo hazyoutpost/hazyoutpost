@@ -18,7 +18,7 @@ Ways to search:</br>
 •	Identify old specialty tournament or promo discs</br>
 •	Compare plastic types across manufacturers</br>
 
-The database includes many new discs released up to 2023. Future updates will include new features and new release discs. The current database does not include retired and out-of-circulation discs. Disc images are not included by design to keep the app lean.
+The database includes many new discs released through 2023. Future updates will include new features and new release discs. The current database does not include retired and out-of-circulation discs. Disc images are not included by design to keep the app lean.
 
 Enjoying this FREE app? If it provides some value to you, consider donating to this ongoing project. Also, don't forget to leave a positive review on Google Play. Message me about disc specifications or suggestions (not through reviews).
                    
